@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build files
+build/
+dist/
+.vscode/
+.DS_Store
+
+# System files
+Thumbs.db
+*.log
+
+# Tailwind / CSS artifacts
+*.css.map
+
+# Environment files
+.env
+.env.local
